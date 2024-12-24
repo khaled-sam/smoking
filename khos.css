@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    height: 100vh;
+    background-image: linear-gradient(to right, #01022d,#000000 );
+
+    
+    
+}
+header{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background: transparent;
+    color: white
+}
+.container{
+   
+    background-image: linear-gradient( to right, #01022d85,#00000067 );
+}
+.conta{
+    
+    background-image: linear-gradient(to right, #01022d85,transparent);
+    font-size: 20px;
+
+}
+.conta,.conta1{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: dotted;
+
+}
+.conta2{
+    
+    background-image: linear-gradient(to right, #01022d85,transparent);
+    font-size: 20px;
+
+}
+.conta2,.conta2{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: dotted;
+
+}
+.conta3{
+    
+    background-image: linear-gradient(to right, #01022d85,transparent);
+    font-size: 20px;
+
+}
+.conta3,.conta3{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: dotted;
+
+}
+.conta4{
+    
+    background-image: linear-gradient(to right, #01022d85,transparent);
+    font-size: 20px;
+
+}
+.conta4,.conta4{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: dotted;
+
+}
+.conta5{
+    
+    background-image: linear-gradient(to right, #01022d85,transparent);
+    font-size: 20px;
+
+}
+.conta5,.conta5{
+    font-size: 20px;
+    background:transparent;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    border-style: dotted;
+
+}
+footer h3{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+}
+ul li{
+    font-size: 15px;
+    display: flex;
+    justify-content: right;
+    justify-content: space-around;
+}
